@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="https://github.com/MoPo-pouya">
-    <img src="[https://img.shields.io/badge/Made%20by-MoPo-pouya-black?style=for-the-badge&logo=github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFKUd8TKlGho5jUUcPimr0MKnVEyIP3uI-TQ&s)" alt="Made by MoPo">
+    <i class="fab fa-github"></i>
   </a>
 </p>
 
